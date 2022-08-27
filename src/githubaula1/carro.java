@@ -1,4 +1,3 @@
-
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -6,19 +5,15 @@
  */
 package githubaula1;
 
+import java.util.Scanner;
+
 /**
  *
  * @author adenir.camargo
  */
-public class GitHubAula1 {
+public class carro {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Hello World!");
-        System.out.println("Bem vindo ao Git");
+        Scanner leia = new Scanner(System.in);
     }
-
 }
